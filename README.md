@@ -2,7 +2,7 @@
 
 A premium, modern landing page for **Code Espresso**, a boutique software studio specializing in AI, Cloud, and Full-Stack solutions.
 
-![Code Espresso Preview](image.png)
+![Code Espresso Preview](image_2.png)
 
 ## 🚀 Features
 
